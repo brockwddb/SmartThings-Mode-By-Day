@@ -2,6 +2,8 @@
  *  Mode By Day
  *
  *  Author: Brock Burkholder
+ *  Email: brockwddb@gmail.com
+ *  Website: http://www.excursion-powered.com
  */
 
 preferences {
